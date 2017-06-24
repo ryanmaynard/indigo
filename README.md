@@ -33,7 +33,7 @@ Example Usage:
 
 ## License
 
-[MIT][mit] - [MIT - TLDR][mit-tldr]
+[MIT][mit] - [MIT-TLDR][mit-tldr]
 
 
 [brew]: https://github.com/Homebrew/brew/blob/master/docs/Formula-Cookbook.md
